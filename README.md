@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/96747289-4267-4d46-8cba-d84c27f0be40" 
-       alt="Nave Odyssey" 
-       style="width: 40%; max-width: 60px; height: auto; margin-bottom: 20px;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; 
+             color: #1e90ff; 
+             font-weight: bold; 
+             text-transform: uppercase; 
+             letter-spacing: 2px;">
+    Grupo Odisseia
+  </h1>
 </div>
+
 
 ---
 
